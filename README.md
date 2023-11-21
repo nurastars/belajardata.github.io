@@ -1,4 +1,4 @@
-# belajardata.github.io
+# belajardata
 pertama akrab dengan data melalui dicoding. tepat pada bulan October 2023
 # Set up Environment
 pip install streamlit
